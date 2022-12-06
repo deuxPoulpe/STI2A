@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670352178 source:/home/unpoulpe/Bureau/Triplet/tri.c
+	"tri.h"
+	<stdio.h>
+
+1670352398 source:/home/unpoulpe/Bureau/Triplet/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tri.h"
+
+1670352508 /home/unpoulpe/Bureau/Triplet/tri.h
+
