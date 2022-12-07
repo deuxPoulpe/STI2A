@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1670408075 source:/home/unpoulpe/Bureau/TP-Scores/listes.c
+	"listes.h"
+
+1607148636 /home/unpoulpe/Bureau/TP-Scores/listes.h
+	<stdio.h>
+	<stdlib.h>
+	"element.h"
+
+1670404164 /home/unpoulpe/Bureau/TP-Scores/element.h
+
+1670405027 source:/home/unpoulpe/Bureau/TP-Scores/main.c
+	"listes.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"useListe.h"
+
+1670410204 source:/home/unpoulpe/Bureau/TP-Scores/useListe.c
+	"listes.h"
+	<string.h>
+
+1670408546 /home/unpoulpe/Bureau/TP-Scores/useListe.h
+	"listes.h"
+
+1670408853 source:/home/unpoulpe/Bureau/TP-Scores/main-Scores.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"listes.h"
+	"useListe.h"
+
+1670402739 source:/home/unpoulpe/Bureau/TP-Scores/main-Score.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
